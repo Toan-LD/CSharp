@@ -1,0 +1,273 @@
+C:\Users\hi\source\repos\Doanqlchdt\bin\Debug\Doanqlchdt.exe.config
+C:\Users\hi\source\repos\Doanqlchdt\bin\Debug\Doanqlchdt.exe
+C:\Users\hi\source\repos\Doanqlchdt\bin\Debug\Doanqlchdt.pdb
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.exe
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.pdb
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\hi\source\repos\Doanqlchdt\obj\Debug\Doanqlchdt.GUI.register.resources
+D:\workspace\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+D:\workspace\DoAnC-\bin\Debug\Doanqlchdt.exe
+D:\workspace\DoAnC-\bin\Debug\Doanqlchdt.pdb
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.exe
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.pdb
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+D:\workspace\DoAnC-\bin\Debug\PagedList.dll
+D:\workspace\DoAnC-\bin\Debug\PagedList.Mvc.dll
+D:\workspace\DoAnC-\bin\Debug\PagedList.xml
+D:\workspace\DoAnC-\bin\Debug\PagedList.Mvc.xml
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\Doanqlchdt.exe
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\Doanqlchdt.pdb
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\PagedList.dll
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\PagedList.Mvc.dll
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\PagedList.xml
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\bin\Debug\PagedList.Mvc.xml
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.PhanQuyen.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.exe
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.pdb
+C:\Users\lythanhphat9523\source\repos\CSharp\DoAnC-\obj\Debug\Doanqlchdt.GUI.Cart.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\PagedList.dll
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\PagedList.xml
+C:\Users\Admin\source\DoAnC#\DoAnC-\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.PhanQuyen.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\DoAnC#\DoAnC-\obj\Debug\Doanqlchdt.Form2.resources
+D:\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+D:\DoAnC-\bin\Debug\Doanqlchdt.exe
+D:\DoAnC-\bin\Debug\Doanqlchdt.pdb
+D:\DoAnC-\bin\Debug\PagedList.dll
+D:\DoAnC-\bin\Debug\PagedList.Mvc.dll
+D:\DoAnC-\bin\Debug\PagedList.xml
+D:\DoAnC-\bin\Debug\PagedList.Mvc.xml
+D:\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+D:\DoAnC-\obj\Debug\Doanqlchdt.Form2.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.PhanQuyen.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+D:\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+D:\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+D:\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+D:\DoAnC-\obj\Debug\Doanqlchdt.exe
+D:\DoAnC-\obj\Debug\Doanqlchdt.pdb
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.Form2.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\PagedList.dll
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\PagedList.xml
+C:\Users\Admin\source\repos\DoAnC-\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.Form2.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.DoiThongTinKH.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.ChangePassword.resources
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.DoiThongTinKH.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.Form2.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.ChangePassword.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.DoiThongTinKH.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.Menu.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.PhanQuyen.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.register.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\Doanqlchdt.exe.config
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\Doanqlchdt.exe
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\Doanqlchdt.pdb
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\PagedList.dll
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\PagedList.xml
+C:\Users\Admin\source\repos\New folder\DoAnC-\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\source\repos\New folder\DoAnC-\obj\Debug\Doanqlchdt.csproj.CopyComplete
+D:\workspace\DoAnC-\obj\Debug\Doanqlchdt.GUI.ChangePassword.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.TaiKhoanNhanVien.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.XemLichSu.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.ChiTiet.resources
+C:\Users\hi\source\repos\CSharp\bin\Debug\Doanqlchdt.exe.config
+C:\Users\hi\source\repos\CSharp\bin\Debug\Doanqlchdt.exe
+C:\Users\hi\source\repos\CSharp\bin\Debug\Doanqlchdt.pdb
+C:\Users\hi\source\repos\CSharp\bin\Debug\PagedList.dll
+C:\Users\hi\source\repos\CSharp\bin\Debug\PagedList.Mvc.dll
+C:\Users\hi\source\repos\CSharp\bin\Debug\PagedList.xml
+C:\Users\hi\source\repos\CSharp\bin\Debug\PagedList.Mvc.xml
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.Form2.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.ChangePassword.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.ChiTiet.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.DoiThongTinKH.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.Form1.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Login.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Menu.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.TaiKhoanNhanVien.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.register.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.XemLichSu.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.Properties.Resources.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.csproj.CopyComplete
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.exe
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.pdb
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.Editkh.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Manager.Manager.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Messageboxshow.Comfrimupdate.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Messageboxshow.YesOrNo.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.Themsanpham.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.khachhanggui.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.sanphamgui.resources
+C:\Users\hi\source\repos\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.EditSP.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Edit.Editkh.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Edit.EditSP.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.khachhanggui.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Manager.Manager.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Messageboxshow.Comfrimupdate.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Messageboxshow.YesOrNo.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.sanphamgui.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.Thêm.Themsanpham.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.GUI.RegisterAccount.resources
+C:\Users\Admin\source\repos\DoAnC-\obj\Debug\Doanqlchdt.RJ.RjTextbox.resources
+D:\workspace\CSharp\bin\Debug\Doanqlchdt.exe.config
+D:\workspace\CSharp\bin\Debug\Doanqlchdt.exe
+D:\workspace\CSharp\bin\Debug\Doanqlchdt.pdb
+D:\workspace\CSharp\bin\Debug\PagedList.dll
+D:\workspace\CSharp\bin\Debug\PagedList.Mvc.dll
+D:\workspace\CSharp\bin\Debug\PagedList.xml
+D:\workspace\CSharp\bin\Debug\PagedList.Mvc.xml
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.csproj.AssemblyReference.cache
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.Form2.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.ChangePassword.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.ChiTiet.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.DoiThongTinKH.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.donbaohanhgui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.Editkh.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.EditSP.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.Form1.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.khachhanggui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.loaisanphamgui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Login.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Manager.Manager.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Menu.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Messageboxshow.Comfrimupdate.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Messageboxshow.YesOrNo.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.nhacungcap.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.NhanVien.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.QuenMatKhau.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.RegisterAccount.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.sanphamgui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.taikhoangui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.TaiKhoanNhanVien.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.register.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.SuaNhanVien.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.ThemNhanVien.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.ThongKe.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.Themsanpham.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.UserGui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.XemLichSu.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.Properties.Resources.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.RJ.RjTextbox.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.csproj.GenerateResource.cache
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.csproj.CopyComplete
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.exe
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.pdb
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.DoiMatKhau.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.KhuyenMai.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Chitietdonban.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Chitietdonnhap.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.hoadonbangui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.hoadonnhapgui.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.Hoadonbanxacnhan.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.themloaisp.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.themnhacungcap.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.editdbh.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.editloaisp.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Edit.editnhacungcap.resources
+D:\workspace\CSharp\obj\Debug\Doanqlchdt.GUI.Thêm.Themdbh.resources
